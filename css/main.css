@@ -115,7 +115,7 @@ body{font-family: 'Open Sans', sans-serif; color: #2A292D;}
 
 .p-divider{width: 100%; background-color: #9469A0; height: 12px;}
 
-
+.ui-widget-header{background: #329766!important;}
 
 
 @media only screen and (max-width: 860px) {
