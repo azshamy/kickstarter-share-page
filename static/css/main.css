@@ -117,6 +117,9 @@ body{font-family: 'Open Sans', sans-serif; color: #2A292D;}
 
 .ui-widget-header{background: #329766!important;}
 
+.addthis_container{
+    margin: 0px 140px 0px 130px;
+}
 
 @media only screen and (max-width: 860px) {
     .container .grid_1{width: 100%;}
